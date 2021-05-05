@@ -54,7 +54,8 @@
     flex-grow: 1;
     align-items: center;
     display: flex;
-    padding: 0 0 0 92px;
+    width: 50%;
+    padding: 0 0 0 68px;
 }
 .promo__img {
     background-color: var(--pink);
